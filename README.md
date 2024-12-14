@@ -4,3 +4,4 @@ Coursework about :
 - Convolution and character prediction
 - Movie Reviews classification
 - Text Generation with Seq2Seq model
+- Fine-tuning Flaubert model for WSD task
